@@ -1,0 +1,2704 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "ID": "O180004",
+      "name": "KOPPARTHI KRISHNAVENI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 2,
+      "ID": "O180023",
+      "name": "SHAIK USMA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 3,
+      "ID": "O180027",
+      "name": "D. HASMITHA BAI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 4,
+      "ID": "O180037",
+      "name": "G. ANANTHALAKSHMI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 5,
+      "ID": "O180042",
+      "name": "P. PURNIMA SATYAVATHI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 6,
+      "ID": "O180047",
+      "name": "KOTTU DAYAMANI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 7,
+      "ID": "O180052",
+      "name": "J. VENKATA SUSEELA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 8,
+      "ID": "O180068",
+      "name": "B. S. VENKATA UMADEVI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 9,
+      "ID": "O180074",
+      "name": "SHAIK SUHANA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 10,
+      "ID": "O180079",
+      "name": "D JAFFRULLA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 11,
+      "ID": "O180119",
+      "name": "OBURAI ANUSHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 12,
+      "ID": "O180123",
+      "name": "GEDALA PAVAN KUMAR",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 13,
+      "ID": "O180128",
+      "name": "ALLU SIRISHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 14,
+      "ID": "O180140",
+      "name": "APPANALA SIRISHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 15,
+      "ID": "O180152",
+      "name": "IPPILI HARESH",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 16,
+      "ID": "O180162",
+      "name": "YELLELA NAGA RAMYA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 17,
+      "ID": "O180169",
+      "name": "TAVANAM MANEESHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 18,
+      "ID": "O180184",
+      "name": "PYDIMARI VENGAL RAO",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 19,
+      "ID": "O180211",
+      "name": "BEVARA SWATHI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 20,
+      "ID": "O180245",
+      "name": "KURRA RAMOJIRAO",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 21,
+      "ID": "O180286",
+      "name": "G. CHAITANYA PAVAN",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 22,
+      "ID": "O180293",
+      "name": "NALLURI MAHESH KUMAR",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 23,
+      "ID": "O180308",
+      "name": "V. MOUNIKA DEEPTHI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 24,
+      "ID": "O180375",
+      "name": "G. D. C. S. SAI NAGA PAVAN",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 25,
+      "ID": "O180383",
+      "name": "UPPUTURI SUVARNA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 26,
+      "ID": "O180389",
+      "name": "SHAIK RAHIMUNNISA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 27,
+      "ID": "O180432",
+      "name": "ANKEPALLI KRISHNAVENI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 28,
+      "ID": "O180483",
+      "name": "KALAM SIREESHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 29,
+      "ID": "O180485",
+      "name": "PILLA SOWJANYA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 30,
+      "ID": "O180491",
+      "name": "ATHMAKURU KAVYA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 31,
+      "ID": "O180500",
+      "name": "PATTI TRIVENI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 32,
+      "ID": "O180515",
+      "name": "PURIMETLA ITHA BEGUM",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 33,
+      "ID": "O180591",
+      "name": "DURGASI SANTOSHI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 34,
+      "ID": "O180601",
+      "name": "D. LAKSHMI GOUTHAMI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 35,
+      "ID": "O180622",
+      "name": "MELLIMI ANUSHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 36,
+      "ID": "O180706",
+      "name": "VEERANKI SOBHA RANI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 37,
+      "ID": "O180722",
+      "name": "C. NAGA SRI CHARAN",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 38,
+      "ID": "O180728",
+      "name": "K. Y. P. KRISHNA REDDY",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 39,
+      "ID": "O180731",
+      "name": "KOLLA PRIYANKA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 40,
+      "ID": "O180741",
+      "name": "BANDI SRI NAGA SATYA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 41,
+      "ID": "O180745",
+      "name": "G. V. V. SIVA RAM SIDDHU",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 42,
+      "ID": "O180761",
+      "name": "Y. PRATHYUSHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 43,
+      "ID": "O180779",
+      "name": "C. JNANA PRATHYUSHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 44,
+      "ID": "O180817",
+      "name": "C. V. VENKATA VINEETH",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 45,
+      "ID": "O180845",
+      "name": "ALAVALA SNEHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 46,
+      "ID": "O180923",
+      "name": "I. GANESH VARMA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 47,
+      "ID": "O180970",
+      "name": "JAKKAM YAMUNA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 48,
+      "ID": "O180985",
+      "name": "BHUPATHI KRUPAVARAM",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 49,
+      "ID": "O180988",
+      "name": "M. G. SATYA DURGA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 50,
+      "ID": "O181001",
+      "name": "BALAGA MADHU",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 51,
+      "ID": "O180040",
+      "name": "C.VENKATA RAKSHITHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 52,
+      "ID": "O180045",
+      "name": "SIYADRI ASSIS",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 53,
+      "ID": "O180055",
+      "name": "ADDAGIRI SANDEEP",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 54,
+      "ID": "O180090",
+      "name": "KANNA NANDINI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 55,
+      "ID": "O180101",
+      "name": "KARRI INDIRA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 56,
+      "ID": "O180114",
+      "name": "TAPPITI ANUSHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 57,
+      "ID": "O180158",
+      "name": "Y.NAGA JYOTHI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 58,
+      "ID": "O180171",
+      "name": "KOLANEEDI SREEVANI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 59,
+      "ID": "O180193",
+      "name": "VENGALASETTI SUPRAJA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 60,
+      "ID": "O180285",
+      "name": "CHINNAKONDU HAVANTHI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 61,
+      "ID": "O180301",
+      "name": "MOTHUKURI RAMYA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 62,
+      "ID": "O180318",
+      "name": "PEDDOJU ANUSHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 63,
+      "ID": "O180322",
+      "name": "SOMARAJU RUPA SARVANI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 64,
+      "ID": "O180332",
+      "name": "MUPPARAJU HARISH",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 65,
+      "ID": "O180372",
+      "name": "KOTA PREMKUMAR",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 66,
+      "ID": "O180385",
+      "name": "YARAGORLA HARITHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 67,
+      "ID": "O180404",
+      "name": "MUPPARAJU PRAVALLIKA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 68,
+      "ID": "O180408",
+      "name": "D.LIKHITHA LAKSHMI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 69,
+      "ID": "O180410",
+      "name": "LANKOJI NIKITHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 70,
+      "ID": "O180416",
+      "name": "NAGURU KAVYA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 71,
+      "ID": "O180443",
+      "name": "YEDIDA TEJASRI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 72,
+      "ID": "O180454",
+      "name": "TANNEERU SRIKANTH",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 73,
+      "ID": "O180517",
+      "name": "P. SIVA SUBBULU",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 74,
+      "ID": "O180548",
+      "name": "M. SATHEESH KUMAR",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 75,
+      "ID": "O180572",
+      "name": "R. LAKSHMI PRASANNA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 76,
+      "ID": "O180596",
+      "name": "O. V. NAGALAKSHMI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 77,
+      "ID": "O180602",
+      "name": "BALAGA SAIRAM",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 78,
+      "ID": "O180610",
+      "name": "POSIMSETTI NAVYA JYOTHI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 79,
+      "ID": "O180634",
+      "name": "KANNA SAIRAM",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 80,
+      "ID": "O180636",
+      "name": "KUMBHA RAJESWARI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 81,
+      "ID": "O180656",
+      "name": "C. SATYAGOPALAJIYANNA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 82,
+      "ID": "O180668",
+      "name": "JALLA CHARAN",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 83,
+      "ID": "O180671",
+      "name": "M. YAMINI SIVA SWETHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 84,
+      "ID": "O180688",
+      "name": "C. MAHITRINADH REDDY",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 85,
+      "ID": "O180747",
+      "name": "KATTA GEETHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 86,
+      "ID": "O180749",
+      "name": "YAVARNA SIVANI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 87,
+      "ID": "O180764",
+      "name": "PASUPULETI MEGHANA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 88,
+      "ID": "O180787",
+      "name": "S. NEERAJAKSHI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 89,
+      "ID": "O180792",
+      "name": "P. A. DEVI PRASANNA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 90,
+      "ID": "O180807",
+      "name": "K. NAGA SANDHYA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 91,
+      "ID": "O180812",
+      "name": "P. SAINAGESWARI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 92,
+      "ID": "O180842",
+      "name": "S. VENKATA RAMANA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 93,
+      "ID": "O180843",
+      "name": "S. R.VARA PRASAD",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 94,
+      "ID": "O180847",
+      "name": "MANNE DORABABU",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 95,
+      "ID": "O180884",
+      "name": "N. V. DEEKSHITHA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 96,
+      "ID": "O180942",
+      "name": "Ven Leonin Kandlakunta",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 97,
+      "ID": "O180962",
+      "name": "M. SRI MAHA LAKSHMI",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 98,
+      "ID": "O180967",
+      "name": "CHILLI PRAGNA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 99,
+      "ID": "O180983",
+      "name": "THALLA SAI SRUJANA",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "F"
+    },
+    {
+      "id": 100,
+      "ID": "O181018",
+      "name": "M. DEVA PREMANKITH",
+      "branch": "cse",
+      "s": 1,
+      "section": "sec-1",
+      "gender": "M"
+    },
+    {
+      "id": 101,
+      "ID": "O180033",
+      "name": "NAKKANA ASHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 102,
+      "ID": "O180053",
+      "name": "SINGAMREDDY POOJITHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 103,
+      "ID": "O180076",
+      "name": "YERIKALA ANITHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 104,
+      "ID": "O180083",
+      "name": "GANDRA HANEESHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 105,
+      "ID": "O180143",
+      "name": "R. V. NAGA SWETHA SRI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 106,
+      "ID": "O180160",
+      "name": "S. NITHIN KUMAR REDDY",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 107,
+      "ID": "O180166",
+      "name": "K. SUBBA REDDY",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 108,
+      "ID": "O180178",
+      "name": "M. TEJA SURESH",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 109,
+      "ID": "O180192",
+      "name": "SOMA MEGHANA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 110,
+      "ID": "O180235",
+      "name": "OGURI NAGA RAJU",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 111,
+      "ID": "O180238",
+      "name": "BODDU NARENDRA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 112,
+      "ID": "O180240",
+      "name": "VEMIREDDY REVATHI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 113,
+      "ID": "O180243",
+      "name": "CHINTADA SRIDHAR",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 114,
+      "ID": "O180277",
+      "name": "KOTA SURENDRAKUMAR",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 115,
+      "ID": "O180299",
+      "name": "B. V. SAI MANIRATNAM",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 116,
+      "ID": "O180388",
+      "name": "MOTUPALLI RAVITEJA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 117,
+      "ID": "O180419",
+      "name": "M. TRILAKSHMI DEVI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 118,
+      "ID": "O180425",
+      "name": "M. V. CHANDHANA KEERTHI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 119,
+      "ID": "O180455",
+      "name": "KAISARLA KRISHNAVENI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 120,
+      "ID": "O180474",
+      "name": "M. GANESH KUMAR REDDY",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 121,
+      "ID": "O180475",
+      "name": "K. PRATHYUSHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 122,
+      "ID": "O180494",
+      "name": "BUGATHA NEERAJA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 123,
+      "ID": "O180498",
+      "name": "NIDAMANURI BHAVANESH",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 124,
+      "ID": "O180499",
+      "name": "SAGGURTHI KUMARI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 125,
+      "ID": "O180502",
+      "name": "B. CHAITHANYA KUMAR",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 126,
+      "ID": "O180504",
+      "name": "VINNAKOTA MANI DEEPTHI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 127,
+      "ID": "O180527",
+      "name": "POTTELLA AHALYA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 128,
+      "ID": "O180550",
+      "name": "GURRAM DHAYAKAR",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 129,
+      "ID": "O180617",
+      "name": "CHEERLADINNE MANASA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 130,
+      "ID": "O180640",
+      "name": "ALLURI GIRIJESH VARA PRASAD",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 131,
+      "ID": "O180658",
+      "name": "CHINTAKAYALA RAJA REVATHI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 132,
+      "ID": "O180677",
+      "name": "MALLEM ANIL KUMAR",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 133,
+      "ID": "O180701",
+      "name": "SINGAMSETTY NAGALAKSHMI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 134,
+      "ID": "O180724",
+      "name": "CHOKKARA RAMESH",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 135,
+      "ID": "O180730",
+      "name": "SIKHILE SONY",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 136,
+      "ID": "O180786",
+      "name": "KOLLA DIVYA SRI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 137,
+      "ID": "O180799",
+      "name": "GEDELA DEEPIKA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 138,
+      "ID": "O180803",
+      "name": "SAMBANGI SAISIRILEELA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 139,
+      "ID": "O180815",
+      "name": "SHAIK NAGA KARISHMA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 140,
+      "ID": "O180863",
+      "name": "HENDRY ANUPAMA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 141,
+      "ID": "O180874",
+      "name": "POTNURU KOUSALYA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 142,
+      "ID": "O180877",
+      "name": "DUVVURI PAVITHRA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 143,
+      "ID": "O180883",
+      "name": "DAGGUPATI MADHUPRIYA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 144,
+      "ID": "O180893",
+      "name": "BARMA GUNADEEPIKA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 145,
+      "ID": "O180906",
+      "name": "NALLA HEMANTH RAM KUMAR",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 146,
+      "ID": "O180922",
+      "name": "DANDA SOMA SEKHAR REDDY",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "M"
+    },
+    {
+      "id": 147,
+      "ID": "O180975",
+      "name": "PATAN KARISHMA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 148,
+      "ID": "O180998",
+      "name": "SANABOYINA VINEETHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 149,
+      "ID": "O181000",
+      "name": "KASINA SIREESHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 150,
+      "ID": "O181022",
+      "name": "B. DIVYA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-2",
+      "gender": "F"
+    },
+    {
+      "id": 151,
+      "ID": "O170270",
+      "name": "SUBBA RAO PENUMUDI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 152,
+      "ID": "O180001",
+      "name": "ANKEPALLI LAKSHMAN",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 153,
+      "ID": "O180011",
+      "name": "REKKALA SRIKANTH",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 154,
+      "ID": "O180050",
+      "name": "KALUVA ROHITHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 155,
+      "ID": "O180071",
+      "name": "V.R.V.SATYA PURNASRI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 156,
+      "ID": "O180137",
+      "name": "THAMMISETTY NAVITHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 157,
+      "ID": "O180144",
+      "name": "JADDA AHALYA VARSHITHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 158,
+      "ID": "O180155",
+      "name": "VOYILAPALLI SWATHI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 159,
+      "ID": "O180156",
+      "name": "TIRUVIDHULA DEEPIKA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 160,
+      "ID": "O180179",
+      "name": "U.S.S.D.M.TEJASWINI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 161,
+      "ID": "O180181",
+      "name": "MYNAM POOJA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 162,
+      "ID": "O180182",
+      "name": "THOTA JANU SRI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 163,
+      "ID": "O180262",
+      "name": "R.N.KRISHNA SURESH",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 164,
+      "ID": "O180267",
+      "name": "VARDANAPU ANITHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 165,
+      "ID": "O180296",
+      "name": "ARIGALA ASHOK KUMAR",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 166,
+      "ID": "O180314",
+      "name": "PERABATTULA SRUTHI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 167,
+      "ID": "O180320",
+      "name": "ALLAM UMA ANURADHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 168,
+      "ID": "O180324",
+      "name": "SANKU JAYANTH",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 169,
+      "ID": "O180328",
+      "name": "GUTTA ADITHYA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 170,
+      "ID": "O180334",
+      "name": "R.N.S. ARUNA LAVANYA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 171,
+      "ID": "O180357",
+      "name": "MANNAVA POOJITHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 172,
+      "ID": "O180386",
+      "name": "B.VENKATA LAKSHMI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 173,
+      "ID": "O180414",
+      "name": "L. ADARSH ROYAL",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 174,
+      "ID": "O180434",
+      "name": "G. GARI SANGEETHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 175,
+      "ID": "O180466",
+      "name": "PENDEM RAVITEJA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 176,
+      "ID": "O180467",
+      "name": "POLU SWARNA LATHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 177,
+      "ID": "O180468",
+      "name": "VELPULA SIVA PARVATHI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 178,
+      "ID": "O180476",
+      "name": "KANURI JYOTSNA REKHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 179,
+      "ID": "O180479",
+      "name": "NARRA LIKHITHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 180,
+      "ID": "O180531",
+      "name": "DHULIPALLA ASWANI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 181,
+      "ID": "O180556",
+      "name": "KOLLI VENKATA SUVARNA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 182,
+      "ID": "O180576",
+      "name": "NABEESAGARI VALIBASHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 183,
+      "ID": "O180577",
+      "name": "MOKA SRAVYA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 184,
+      "ID": "O180582",
+      "name": "ARAVA RAJAMOHAN",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 185,
+      "ID": "O180584",
+      "name": "GADDAM MAHESWARI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 186,
+      "ID": "O180669",
+      "name": "KALLAM VENUGOPAL REDDY",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 187,
+      "ID": "O180670",
+      "name": "A.V.PRAVEEN KUMAR",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 188,
+      "ID": "O180682",
+      "name": "Y.RENU ISWARYA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 189,
+      "ID": "O180698",
+      "name": "PADYALA HARIKA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 190,
+      "ID": "O180704",
+      "name": "REDDY SURESH",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 191,
+      "ID": "O180736",
+      "name": "KANAPARTHI JESSICA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 192,
+      "ID": "O180788",
+      "name": "TANGUDU LIKHITHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 193,
+      "ID": "O180791",
+      "name": "AAVULA VASUNDHARA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 194,
+      "ID": "O180793",
+      "name": "TUNGALA HARI PRIYA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 195,
+      "ID": "O180854",
+      "name": "PALEPU PRAKASH",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 196,
+      "ID": "O180898",
+      "name": "SAMADULA RAVI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 197,
+      "ID": "O180946",
+      "name": "G.NAGA LAKSHMI",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 198,
+      "ID": "O180950",
+      "name": "THATI SANDHYA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 199,
+      "ID": "O180987",
+      "name": "PATTI NITHYA PRASANNA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 200,
+      "ID": "O180990",
+      "name": "KANNURI ANUSHA",
+      "branch": "cse",
+      "s": 2,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 201,
+      "ID": "O180024",
+      "name": "B. VENKATA LAKSHMI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 202,
+      "ID": "O180048",
+      "name": "A. LAKSHMI REDDY",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 203,
+      "ID": "O180075",
+      "name": "NARE PRAVEENA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 204,
+      "ID": "O180077",
+      "name": "RAVILLA YOGEESWARI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 205,
+      "ID": "O180084",
+      "name": "SHAIK VASEEMA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 206,
+      "ID": "O180109",
+      "name": "ELUBOLU MANI KISHORE",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 207,
+      "ID": "O180118",
+      "name": "YANDA CHITRA LEKHA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 208,
+      "ID": "O180159",
+      "name": "PENTAPATI RATNA SAHITHI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 209,
+      "ID": "O180164",
+      "name": "KANDALA TEJASWI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 210,
+      "ID": "O180180",
+      "name": "KONDALA POOJITHA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 211,
+      "ID": "O180185",
+      "name": "GINNI JHANSY",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 212,
+      "ID": "O180237",
+      "name": "P. VENKATA YOGI NANI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 213,
+      "ID": "O180239",
+      "name": "TALE BHANUPRASAD",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 214,
+      "ID": "O180268",
+      "name": "KOTTURI JAYA MANIDEEP",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 215,
+      "ID": "O180284",
+      "name": "ADAPA SANDEEP",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 216,
+      "ID": "O180294",
+      "name": "Y. BABY KEERTHANA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 217,
+      "ID": "O180302",
+      "name": "KALLAGUNTA DIVYA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 218,
+      "ID": "O180307",
+      "name": "INAGADAPU PRIYANKA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 219,
+      "ID": "O180335",
+      "name": "KATTUBOYINA SAI SUSMITHA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 220,
+      "ID": "O180338",
+      "name": "DANTA GAYATRI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 221,
+      "ID": "O180352",
+      "name": "BYRAPUNENI PRASANNA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 222,
+      "ID": "O180363",
+      "name": "DADI SRILAKSHMI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 223,
+      "ID": "O180368",
+      "name": "GUDDETI SAI KUMARI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 224,
+      "ID": "O180417",
+      "name": "THALLA KEERTHI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "F"
+    },
+    {
+      "id": 225,
+      "ID": "O180449",
+      "name": "K. AKHIL KUMAR REDDY",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-3",
+      "gender": "M"
+    },
+    {
+      "id": 226,
+      "ID": "O180503",
+      "name": "MASANI PAVITHRA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 227,
+      "ID": "O180547",
+      "name": "DOLLU BHARGAVI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 228,
+      "ID": "O180567",
+      "name": "BANDARU TULASI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 229,
+      "ID": "O180592",
+      "name": "MEESALA SUSMITHA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 230,
+      "ID": "O180597",
+      "name": "J. SATYA SAI BABA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 231,
+      "ID": "O180620",
+      "name": "VELPULA PAVAN KALYAN",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 232,
+      "ID": "O180646",
+      "name": "ADDANKI JAYASRI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 233,
+      "ID": "O180650",
+      "name": "RAGIPINDI KRISHNA REDDY",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 234,
+      "ID": "O180663",
+      "name": "UPPU CHARAN TEJA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 235,
+      "ID": "O180667",
+      "name": "MADDU VIJAY KUMAR",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 236,
+      "ID": "O180678",
+      "name": "KADIYAM SWATHI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 237,
+      "ID": "O180703",
+      "name": "MOTHUKURI SINDHUJA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 238,
+      "ID": "O180732",
+      "name": "JITTUGA BHAVANA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 239,
+      "ID": "O180739",
+      "name": "YERRAMILLI RADHA KIRANMAI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 240,
+      "ID": "O180748",
+      "name": "LAKKE GOPI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 241,
+      "ID": "O180794",
+      "name": "BATHULA DHYANADEEPIKA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 242,
+      "ID": "O180822",
+      "name": "KATIKIREDDY KARUNA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 243,
+      "ID": "O180824",
+      "name": "P. V. MAHALAKSHMI MEGHANA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 244,
+      "ID": "O180857",
+      "name": "R. SRI DATTA RAJU",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 245,
+      "ID": "O180905",
+      "name": "PEDAKAPU VINOD KUMAR",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 246,
+      "ID": "O180921",
+      "name": "R. RISHI PANDYA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 247,
+      "ID": "O180957",
+      "name": "KOMMU REVATHI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 248,
+      "ID": "O180981",
+      "name": "GARIKAPATI BHUMIKA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 249,
+      "ID": "O181002",
+      "name": "PULIPATI SWARUPA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 250,
+      "ID": "O181008",
+      "name": "SALLA CHANDANA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 251,
+      "ID": "O170202",
+      "name": "KURAKULA GOWTHAMI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 252,
+      "ID": "O180005",
+      "name": "TALLA NITHIN REDDY",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 253,
+      "ID": "O180064",
+      "name": "KOLAPALLI RAMYA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 254,
+      "ID": "O180082",
+      "name": "PAMULA VIJAYALAKSHMI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 255,
+      "ID": "O180132",
+      "name": "FALUKULAM PRANEETH",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 256,
+      "ID": "O180147",
+      "name": "KADALI KAVYA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 257,
+      "ID": "O180176",
+      "name": "PAGUTHOTA SATHISH KUMAR",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 258,
+      "ID": "O180186",
+      "name": "RAJAVARAPU BHARGAVI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 259,
+      "ID": "O180188",
+      "name": "RAJANA NOOKALAMMA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 260,
+      "ID": "O180196",
+      "name": "DHANENKULA SANDHYA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 261,
+      "ID": "O180258",
+      "name": "VISSAMPALLI VAMSI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 262,
+      "ID": "O180265",
+      "name": "NUKALAPU KUSUMA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 263,
+      "ID": "O180271",
+      "name": "CHAVALA NAKSHATRA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 264,
+      "ID": "O180274",
+      "name": "BONDADA VINEETHA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 265,
+      "ID": "O180282",
+      "name": "SIRIGIREEDY MANEESHA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 266,
+      "ID": "O180289",
+      "name": "P.NAGA JALAVATHI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 267,
+      "ID": "O180292",
+      "name": "C. ANJANI DEEKSHITHA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 268,
+      "ID": "O180303",
+      "name": "M.N.PARVATHI TEJASWI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 269,
+      "ID": "O180316",
+      "name": "PERAKA DOLA JHANSI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 270,
+      "ID": "O180413",
+      "name": "B. N.VENKATA MOUNIKA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 271,
+      "ID": "O180428",
+      "name": "YARRAM VENKATESH",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 272,
+      "ID": "O180478",
+      "name": "KOLA NAVYA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 273,
+      "ID": "O180489",
+      "name": "PEDDIREDDI NEERAJA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 274,
+      "ID": "O180492",
+      "name": "T AMBIKA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 275,
+      "ID": "O180513",
+      "name": "PALAPARTHI PRISCILLA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 276,
+      "ID": "O180524",
+      "name": "KANDLAVATH KARTHIK NAIK",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 277,
+      "ID": "O180535",
+      "name": "RODDA NITHIN",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 278,
+      "ID": "O180566",
+      "name": "GUNJI TRIVENI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 279,
+      "ID": "O180583",
+      "name": "MELAM RAHUL",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 280,
+      "ID": "O180590",
+      "name": "B.B.LAKSHMI PRASANNA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 281,
+      "ID": "O180599",
+      "name": "VEJENDLA PRAVEEN",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 282,
+      "ID": "O180653",
+      "name": "TADIKONDA VASAVI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 283,
+      "ID": "O180660",
+      "name": "KANURI KALYANI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 284,
+      "ID": "O180676",
+      "name": "GURRAM SRI DIVYA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 285,
+      "ID": "O180718",
+      "name": "DARA RAJANI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 286,
+      "ID": "O180801",
+      "name": "BALAKA SOWMYA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 287,
+      "ID": "O180809",
+      "name": "MITTA SANDHYA RANI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 288,
+      "ID": "O180816",
+      "name": "YELISETTI MOUNIKA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 289,
+      "ID": "O180825",
+      "name": "MALINENI APARNA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 290,
+      "ID": "O180850",
+      "name": "CHUNDURI VYSHNAVI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 291,
+      "ID": "O180855",
+      "name": "ANUBOYINA SUNITHA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 292,
+      "ID": "O180861",
+      "name": "ARE MADHUMITA SIVANI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 293,
+      "ID": "O180899",
+      "name": "PULLAGURA LAVANYA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 294,
+      "ID": "O180901",
+      "name": "PURINI DIVYA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 295,
+      "ID": "O180917",
+      "name": "SHAIK SHAHID HUSSAIN",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 296,
+      "ID": "O180932",
+      "name": "MENDRAGUTTI YASWANTH",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "M"
+    },
+    {
+      "id": 297,
+      "ID": "O180971",
+      "name": "TAMMANA TRIVENI",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 298,
+      "ID": "O180973",
+      "name": "GANDIBOINA RAMU",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 299,
+      "ID": "O180980",
+      "name": "KORUKONDA ANUSHA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    },
+    {
+      "id": 300,
+      "ID": "O180999",
+      "name": "GUDALA HANISHA",
+      "branch": "cse",
+      "s": 3,
+      "section": "sec-4",
+      "gender": "F"
+    }
+  ]
+}

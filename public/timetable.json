@@ -1,0 +1,210 @@
+{
+  "cse": [
+    {
+      "s1": {
+        "monday": [
+          {
+            "9.30 AM - 10.30 AM": "MFDS",
+            "10.30 AM - 11.30 AM": "OS",
+            "11.30 AM - 12.30 PM": "DM",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "SELAB",
+            "02.30PM - 03.30 PM ": "SELAB",
+            "03.30 PM - 04.30 PM": "SELAB"
+          }
+        ],
+        "tuesday": [
+          {
+            "9.30 AM - 10.30 AM": "CN",
+            "10.30 AM - 11.30 AM": "SE",
+            "11.30 AM - 12.30 PM": "L",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "OSLAB",
+            "02.30PM - 03.30 PM ": "OSLAB",
+            "03.30 PM - 04.30 PM": "OSLAB"
+          }
+         ],
+        "wednesday": [
+          {        
+            "9.30 AM - 10.30 AM": "DM",
+            "10.30 AM - 11.30 AM": "MFDS",
+            "11.30 AM - 12.30 PM": "L",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "CNLAB",
+            "02.30PM - 03.30 PM ": "CNLAB",
+            "03.30 PM - 04.30 PM": "CNLAB"
+          }
+         ],              
+        "thursday": [
+          {
+            "9.30 AM - 10.30 AM": "OS",
+            "10.30 AM - 11.30 AM": "SE",
+            "11.30 AM - 12.30 PM": "DM",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "MFDS",
+            "02.30PM - 03.30 PM ": "CN",
+            "03.30 PM - 04.30 PM": "OS"
+          }
+        ],
+        "friday": [
+          {
+            "9.30 AM - 10.30 AM": "ENGLISHLAB",
+            "10.30 AM - 11.30 AM": "ENGLISHLAB",
+            "11.30 AM - 12.30 PM": "ENGLISHLAB",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "SE",
+            "02.30PM - 03.30 PM ": "CN",
+            "03.30 PM - 04.30 PM": "L"
+          }
+        ],
+        "saturday": [
+          {
+            "9.30 AM - 10.30 AM": "MFDS",
+            "10.30 AM - 11.30 AM": "CN",
+            "11.30 AM - 12.30 PM": "DM",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "L",
+            "02.30PM - 03.30 PM ": "OS",
+            "03.30 PM - 04.30 PM": "SE"
+          }
+          ]
+              },
+      "s2": {
+        "monday": [
+          {
+            "9.30 AM - 10.30 AM": "SE",
+            "10.30 AM - 11.30 AM": "CN",
+            "11.30 AM - 12.30 PM": "L",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "OS",
+            "02.30PM - 03.30 PM ": "DM",
+            "03.30 PM - 04.30 PM": "MFDS"
+          }
+        ],
+        "tuesday": [
+          {
+            "9.30 AM - 10.30 AM": "ENGLISHLAB",
+            "10.30 AM - 11.30 AM": "ENGLISHLAB",
+            "11.30 AM - 12.30 PM": "ENGLISHLAB",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "MFDS",
+            "02.30PM - 03.30 PM ": "CN",
+            "03.30 PM - 04.30 PM": "DM"
+          }
+        ],
+        "wednesday": [
+          {
+            "9.30 AM - 10.30 AM": "CN",
+            "10.30 AM - 11.30 AM": "SE",
+            "11.30 AM - 12.30 PM": "DM",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "L",
+            "02.30PM - 03.30 PM ": "MFDS",
+            "03.30 PM - 04.30 PM": "SE"
+          }
+        ],
+        "thursday": [
+          {
+            "9.30 AM - 10.30 AM": "MFDS",
+            "10.30 AM - 11.30 AM": "L",
+            "11.30 AM - 12.30 PM": "OS",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "SELAB",
+            "02.30PM - 03.30 PM ": "SELAB",
+            "03.30 PM - 04.30 PM": "SELAB"
+          }
+        ],
+        "friday": [
+          {
+            "9.30 AM - 10.30 AM": "DM",
+            "10.30 AM - 11.30 AM": "SE",
+            "11.30 AM - 12.30 PM": "CN",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "OSLAB",
+            "02.30PM - 03.30 PM ": "OSLAB",
+            "03.30 PM - 04.30 PM": "OSLAB"
+          }
+        ],
+        "saturday": [
+          {
+            "9.30 AM - 10.30 AM": "OS",
+            "10.30 AM - 11.30 AM": "L",
+            "11.30 AM - 12.30 PM": "OS",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "CNLAB",
+            "02.30PM - 03.30 PM ": "CNLAB",
+            "03.30 PM - 04.30 PM": "CNLAB"
+          }
+        ]
+              },
+      "s3": {
+        "monday": [
+          {
+            "9.30 AM - 10.30 AM": "ENGLISHLAB",
+            "10.30 AM - 11.30 AM": "ENGLISHLAB",
+            "11.30 AM - 12.30 PM": "ENGLISHLAB",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "CN",
+            "02.30PM - 03.30 PM ": "CN",
+            "03.30 PM - 04.30 PM": "OS"
+          }
+        ],
+        "tuesday": [
+          {
+            "9.30 AM - 10.30 AM": "MFSD",
+            "10.30 AM - 11.30 AM": "OS",
+            "11.30 AM - 12.30 PM": "CN",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "SE",
+            "02.30PM - 03.30 PM ": "SE",
+            "03.30 PM - 04.30 PM": "L"
+          }
+        ],
+        "wednesday": [
+          {
+            "9.30 AM - 10.30 AM": "OSLAB",
+            "10.30 AM - 11.30 AM": "OSLAB",
+            "11.30 AM - 12.30 PM": "OSLAB",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "SE",
+            "02.30PM - 03.30 PM ": "L",
+            "03.30 PM - 04.30 PM": "DM"
+          }
+        ],
+        "thursday": [
+          {
+            "9.30 AM - 10.30 AM": "CNLAB",
+            "10.30 AM - 11.30 AM": "CNLAB",
+            "11.30 AM - 12.30 PM": "CNLAB",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "OS",
+            "02.30PM - 03.30 PM ": "DM",
+            "03.30 PM - 04.30 PM": "MFDS"
+          }
+        ],
+        "friday": [
+          {
+            "9.30 AM - 10.30 AM": "OS",
+            "10.30 AM - 11.30 AM": "DM",
+            "11.30 AM - 12.30 PM": "MFDS",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "CN",
+            "02.30PM - 03.30 PM ": "L",
+            "03.30 PM - 04.30 PM": "SE"
+          }
+        ],
+        "saturday": [
+          {
+            "9.30 AM - 10.30 AM": "SELAB",
+            "10.30 AM - 11.30 AM": "SELAB",
+            "11.30 AM - 12.30 PM": "SELAB",
+            "12.30 PM - 01.30 PM": "LUNCH BREAK",
+            "01.30PM - 02.30 PM": "DM",
+            "02.30PM - 03.30 PM ": "MFDS",
+            "03.30 PM - 04.30 PM": "L"
+          }
+        ]
+              }
+    }
+  ]
+}

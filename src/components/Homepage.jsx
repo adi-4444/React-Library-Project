@@ -1,8 +1,8 @@
 import React from 'react'
 import { useState } from 'react'
 
-const Homepage = (props) => {
-   const {students,tt} = props
+const Homepage = ({students,tt}) => {
+
    // Setting a Clock
    const time = new Date().toLocaleTimeString();
    const date = new Date().getDate() + '-' + parseInt(new Date().getMonth() + 1) + '-' + new Date().getFullYear();
@@ -42,12 +42,35 @@ const Homepage = (props) => {
             checkTimeTable(student,tt);
          }
    }
-       // check branch, section
+       // check branch and section of student
    const checkTimeTable = (stud,tt) => {
-      console.log(stud.branch,stud.s)
-      let filteredBranch = tt.timetables.find(ttb => ttb.branch === stud.branch)
-      let filteredSection = filteredBranch.section.find(ttbs => ttbs.s === stud.s)
-      console.log(filteredSection)
+      let filteredBranch = tt.timetables.find(ttb => ttb.branch === stud.branch);
+      let filteredSection = filteredBranch.sections.find(ttbs => ttbs.s === stud.s);
+      checkDay(filteredSection);
+   }
+      // check present day for section
+   const checkDay = (section) => {
+      const days = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
+      let day = days[new Date().getDay()]
+      let filteredDay = section.days.find(sdd => sdd.day === day);
+      checkPeriodTime(filteredDay);
+   }
+   // check current time with the period time for day
+   const checkPeriodTime =(day) => {
+      // let cTime = parseFloat(new Date().getHours()+"."+new Date().getMinutes())
+      let cTime = 10.31
+      console.log(cTime)
+      let periods = day.periods
+      console.log(periods)
+      // this loop will check the current time to period timings and return period
+      for (let key in periods) {
+         let value = periods[key];
+         let start = parseFloat(key.split("-")[0])+0.01 // 0.01 added to overlap 2 classe at a time
+         let end = parseFloat(key.split("-")[1])
+         if(cTime >= start && cTime <= end) {
+            console.log(value)
+         }
+       }
    }
   return (
     <div>

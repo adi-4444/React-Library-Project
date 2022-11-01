@@ -1,8 +1,19 @@
 import React from "react";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import "./Homepage.css";
 
 const Homepage = ({ students, tt }) => {
+	//Disablling right click from page
+	useEffect(() => {
+		const handleContextmenu = (e) => {
+			e.preventDefault();
+		};
+		document.addEventListener("contextmenu", handleContextmenu);
+		return () => {
+			document.removeEventListener("contextmenu", handleContextmenu);
+		};
+	}, []);
+
 	// Setting a Clock
 	const time = new Date().toLocaleTimeString();
 	const date =
@@ -44,6 +55,7 @@ const Homepage = ({ students, tt }) => {
 	const submitHandler = (e) => {
 		e.preventDefault();
 		checkStudent(input, students);
+		setInput("");
 	};
 
 	//  this function will find student data
@@ -110,8 +122,9 @@ const Homepage = ({ students, tt }) => {
 
 	// check current time with the period time for day
 	const checkPeriodTime = (day) => {
-		// let cTime = parseFloat(new Date().getHours()+"."+new Date().getMinutes())
-		let cTime = 12;
+		let cTime = parseFloat(
+			new Date().getHours() + "." + new Date().getMinutes()
+		);
 		let periods = day.periods;
 		if (cTime < 9.3) console.log("Not Allowed : You are Early");
 		if (cTime > 18) console.log("Not Allowed : Library is Closed");
@@ -154,7 +167,9 @@ const Homepage = ({ students, tt }) => {
 						<span className='date'>{todayDate}</span>
 					</div>
 					<div className='time-div'>
-						<p className='time neonText'>{currentTime}</p>
+						<p className='time neonText'>
+							{currentTime.toUpperCase()}
+						</p>
 					</div>
 				</div>
 				<div className='input-div'>
@@ -163,7 +178,7 @@ const Homepage = ({ students, tt }) => {
 							<input
 								type='text'
 								id='name'
-								class='form-control'
+								className='form-control'
 								placeholder='Enter your ID'
 								name='ID'
 								value={input}
@@ -171,10 +186,9 @@ const Homepage = ({ students, tt }) => {
 								onChange={(e) => setInput(e.target.value)}
 								required
 								autoComplete='off'
+								autoFocus
 							/>
-							<label class='form-label' for='ID'>
-								Enter your ID
-							</label>
+							<label className='form-label'>Enter your ID</label>
 							<button className='btn' type='submit'>
 								Submit
 							</button>
@@ -187,3 +201,11 @@ const Homepage = ({ students, tt }) => {
 	);
 };
 export default Homepage;
+
+export const Search = () => {
+	return (
+		<div>
+			<h1>Searching...</h1>
+		</div>
+	);
+};

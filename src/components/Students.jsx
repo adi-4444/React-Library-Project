@@ -4,7 +4,18 @@ import "./Students.css";
 
 const Students = () => {
 	const [students, setStudents] = useState([]);
+	//Disablling right click from page
+	useEffect(() => {
+		const handleContextmenu = (e) => {
+			e.preventDefault();
+		};
+		document.addEventListener("contextmenu", handleContextmenu);
+		return () => {
+			document.removeEventListener("contextmenu", handleContextmenu);
+		};
+	}, []);
 
+	// Getting of Students Data
 	useEffect(() => {
 		axios("./data/students.json")
 			.then((res) => setStudents(res.data.students))

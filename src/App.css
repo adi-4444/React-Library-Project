@@ -1,0 +1,11 @@
+* {
+	margin: 0;
+}
+body {
+	background: rgb(222, 240, 72);
+	background: linear-gradient(
+		273deg,
+		rgba(222, 240, 72, 0.9724264705882353) 13%,
+		rgba(18, 235, 240, 0.9752275910364145) 87%
+	);
+}

@@ -56,7 +56,7 @@ const Homepage = ({ students, tt }) => {
 	const submitHandler = (e) => {
 		e.preventDefault();
 		checkStudent(input, students);
-		// setInput("");
+		setInput("");
 		setShowModel(true);
 	};
 	//------------------------------------------------------------------------
@@ -66,7 +66,6 @@ const Homepage = ({ students, tt }) => {
 
 		let student = students.find((user) => user.ID === inputStudent); // check user in DB
 		if (student === undefined) {
-			console.log("Not Found");
 			setModelMessage(`${inputStudent},  Not Found`);
 			setImage(false);
 		} else {
@@ -114,17 +113,14 @@ const Homepage = ({ students, tt }) => {
 		let e = 18;
 		switch (true) {
 			case cTime >= s && cTime <= e:
-				console.log("You are Allowed");
 				setModelMessage("You Are Allowed");
 				setImage(true);
 				break;
 			case cTime < s:
-				console.log("Not Allowed, You are early");
 				setModelMessage("Not Allowed, You are early");
 				setImage(false);
 				break;
 			case cTime > e:
-				console.log("Not Allowed, Library is Closed");
 				setModelMessage("Not Allowed, Library is Closed");
 				setImage(false);
 				break;
@@ -135,22 +131,18 @@ const Homepage = ({ students, tt }) => {
 
 	// check current time with the period time for day
 	const checkPeriodTime = (day) => {
-		// let cTime = parseFloat(
-		// 	new Date().getHours() + "." + new Date().getMinutes()
-		// );
-		let cTime = 10.4;
+		let cTime = parseFloat(
+			new Date().getHours() + "." + new Date().getMinutes()
+		);
 		let periods = day.periods;
 		if (cTime < 9.3) {
 			setModelMessage("Not Allowed, You are Early");
-			console.log("Not Allowed, You are Early");
 			setImage(false);
 		} else if (cTime > 17) {
 			setModelMessage("Not Allowed, Library is Closed");
-			console.log("Not Allowed, Library is Closed");
 			setImage(false);
 		} else if (cTime >= 16.32 && cTime < 16.7) {
 			setModelMessage("You are Allowed");
-			console.log("You are Allowed");
 			setImage(true);
 		}
 
@@ -163,26 +155,20 @@ const Homepage = ({ students, tt }) => {
 			if (cTime >= start && cTime <= end) {
 				switch (true) {
 					case value === "L":
-						console.log(`You are Allowed its a LEISURE Period`);
 						setModelMessage(
 							`You are Allowed, its a LEISURE Period`
 						);
 						setImage(true);
 						break;
 					case value === "LIBRARY":
-						console.log(`You are Allowed its ${value} Period`);
 						setModelMessage(`You are Allowed, its ${value} Period`);
 						setImage(true);
 						break;
 					case value === "LUNCH BREAK":
-						console.log(`You are Not Allowed its ${value}`);
 						setModelMessage(`You are Not Allowed, its ${value}`);
 						setImage(false);
 						break;
 					case value !== "L" || value !== "LIBRARY":
-						console.log(
-							`You are Not Allowed, You have ${value} now`
-						);
 						setImage(false);
 						setModelMessage(
 							`You are Not Allowed, You have ${value} now`
@@ -199,7 +185,7 @@ const Homepage = ({ students, tt }) => {
 	const [showModel, setShowModel] = useState(false);
 	const [modalMessage, setModelMessage] = useState("");
 	const [student, setStudent] = useState("");
-	const [image, setImage] = useState(null);
+	const [image, setImage] = useState();
 
 	return (
 		<div>

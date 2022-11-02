@@ -1,0 +1,61 @@
+.model-wrapper {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.model {
+	min-width: 450px;
+	min-height: 250px;
+	background-color: white;
+	border-radius: 5px;
+	user-select: none;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	position: relative;
+	animation: fadeIn 0.1s;
+}
+.model-messages {
+	margin-right: -30px;
+	margin-left: 20px;
+	z-index: 5;
+	text-align: center;
+}
+.img-success {
+	text-align: center;
+	height: 150px;
+	width: 270px;
+	margin-right: -10px;
+}
+.img-warn {
+	text-align: center;
+	height: 150px;
+	width: 150px;
+	padding: -15px;
+	margin-right: 5px;
+}
+.close-btn {
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	font-size: medium;
+	color: red;
+	background-color: transparent;
+	cursor: pointer;
+	border: none;
+}
+@keyframes fadeIn {
+	0% {
+		opacity: 0;
+		scale: 0.5;
+	}
+	100% {
+		opacity: 1;
+		scale: 1;
+	}
+}

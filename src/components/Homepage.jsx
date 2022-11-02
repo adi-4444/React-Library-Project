@@ -1,6 +1,7 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import "./Homepage.css";
+import Modal from "./Modal";
 
 const Homepage = ({ students, tt }) => {
 	//Disablling right click from page
@@ -13,7 +14,7 @@ const Homepage = ({ students, tt }) => {
 			document.removeEventListener("contextmenu", handleContextmenu);
 		};
 	}, []);
-
+	//--------------------------------------------------------------------------
 	// Setting a Clock
 	const time = new Date().toLocaleTimeString();
 	const date =
@@ -49,15 +50,16 @@ const Homepage = ({ students, tt }) => {
 		setCurentDay(day);
 	}
 	setInterval(refresh, 1000);
-
+	//---------------------------------------------------------------------------
 	// Taking input to state
 	const [input, setInput] = useState();
 	const submitHandler = (e) => {
 		e.preventDefault();
 		checkStudent(input, students);
-		setInput("");
+		// setInput("");
+		setShowModel(true);
 	};
-
+	//------------------------------------------------------------------------
 	//  this function will find student data
 	const checkStudent = (input, students) => {
 		let inputStudent = input.toString().toUpperCase(); // input data
@@ -65,17 +67,22 @@ const Homepage = ({ students, tt }) => {
 		let student = students.find((user) => user.ID === inputStudent); // check user in DB
 		if (student === undefined) {
 			console.log("Not Found");
+			setModelMessage(`${inputStudent},  Not Found`);
+			setImage(false);
 		} else {
 			checkTimeTable(student, tt);
+			setStudent(student);
 		}
 	};
+
 	// check branch and section of student
 	const checkTimeTable = (stud, tt) => {
 		let filteredBranch = tt.timetables.find(
+			// check student branch and branch will be filterd
 			(ttb) => ttb.branch === stud.branch
 		);
 		let filteredSection = filteredBranch.sections.find(
-			(ttbs) => ttbs.s === stud.s
+			(ttbs) => ttbs.s === stud.s // after that student section will be filtered from filterd branch
 		);
 		checkDay(filteredSection);
 	};
@@ -94,7 +101,7 @@ const Homepage = ({ students, tt }) => {
 		let cTime = parseFloat(
 			new Date().getHours() + "." + new Date().getMinutes()
 		);
-		let filteredDay = section.days.find((sdd) => sdd.day === day);
+		let filteredDay = section.days.find((sd) => sd.day === day);
 		if (day === "sunday") {
 			ifSunday(cTime);
 		} else {
@@ -108,12 +115,18 @@ const Homepage = ({ students, tt }) => {
 		switch (true) {
 			case cTime >= s && cTime <= e:
 				console.log("You are Allowed");
+				setModelMessage("You Are Allowed");
+				setImage(true);
 				break;
 			case cTime < s:
-				console.log("Not Allowed : You are early");
+				console.log("Not Allowed, You are early");
+				setModelMessage("Not Allowed, You are early");
+				setImage(false);
 				break;
 			case cTime > e:
-				console.log("Not Allowed : Library is Closed");
+				console.log("Not Allowed, Library is Closed");
+				setModelMessage("Not Allowed, Library is Closed");
+				setImage(false);
 				break;
 			default:
 				break;
@@ -122,12 +135,25 @@ const Homepage = ({ students, tt }) => {
 
 	// check current time with the period time for day
 	const checkPeriodTime = (day) => {
-		let cTime = parseFloat(
-			new Date().getHours() + "." + new Date().getMinutes()
-		);
+		// let cTime = parseFloat(
+		// 	new Date().getHours() + "." + new Date().getMinutes()
+		// );
+		let cTime = 10.4;
 		let periods = day.periods;
-		if (cTime < 9.3) console.log("Not Allowed : You are Early");
-		if (cTime > 18) console.log("Not Allowed : Library is Closed");
+		if (cTime < 9.3) {
+			setModelMessage("Not Allowed, You are Early");
+			console.log("Not Allowed, You are Early");
+			setImage(false);
+		} else if (cTime > 17) {
+			setModelMessage("Not Allowed, Library is Closed");
+			console.log("Not Allowed, Library is Closed");
+			setImage(false);
+		} else if (cTime >= 16.32 && cTime < 16.7) {
+			setModelMessage("You are Allowed");
+			console.log("You are Allowed");
+			setImage(true);
+		}
+
 		// this loop will check the current time to period timings and return period
 		for (let key in periods) {
 			let value = periods[key];
@@ -135,21 +161,33 @@ const Homepage = ({ students, tt }) => {
 			let end = parseFloat(key.split("-")[1]);
 
 			if (cTime >= start && cTime <= end) {
-				console.log(value);
 				switch (true) {
-					case value:
-						console.log("working", value, cTime);
-						break;
 					case value === "L":
 						console.log(`You are Allowed its a LEISURE Period`);
+						setModelMessage(
+							`You are Allowed, its a LEISURE Period`
+						);
+						setImage(true);
 						break;
 					case value === "LIBRARY":
 						console.log(`You are Allowed its ${value} Period`);
+						setModelMessage(`You are Allowed, its ${value} Period`);
+						setImage(true);
+						break;
+					case value === "LUNCH BREAK":
+						console.log(`You are Not Allowed its ${value}`);
+						setModelMessage(`You are Not Allowed, its ${value}`);
+						setImage(false);
 						break;
 					case value !== "L" || value !== "LIBRARY":
 						console.log(
-							`You are Not Allowed, You have ${value} class now`
+							`You are Not Allowed, You have ${value} now`
 						);
+						setImage(false);
+						setModelMessage(
+							`You are Not Allowed, You have ${value} now`
+						);
+						setImage(false);
 						break;
 					default:
 						break;
@@ -157,6 +195,11 @@ const Homepage = ({ students, tt }) => {
 			}
 		}
 	};
+	// Modal Commands
+	const [showModel, setShowModel] = useState(false);
+	const [modalMessage, setModelMessage] = useState("");
+	const [student, setStudent] = useState("");
+	const [image, setImage] = useState(null);
 
 	return (
 		<div>
@@ -196,16 +239,16 @@ const Homepage = ({ students, tt }) => {
 					</div>
 				</div>
 			</div>
-			<div className='msg-wrapper'></div>
+			<div>
+				<Modal
+					showModel={showModel}
+					onCloseModel={() => setShowModel(false)}
+					modalMessage={modalMessage}
+					student={student}
+					image={image}
+				/>
+			</div>
 		</div>
 	);
 };
 export default Homepage;
-
-export const Search = () => {
-	return (
-		<div>
-			<h1>Searching...</h1>
-		</div>
-	);
-};

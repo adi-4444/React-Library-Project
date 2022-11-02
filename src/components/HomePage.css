@@ -74,10 +74,11 @@
 	display: flex;
 	justify-content: center;
 }
+
 .input-div {
 	background-color: #fff;
-	opacity: 0.9;
-	margin-top: 180px;
+	opacity: 0.99;
+	margin-top: 220px;
 	width: 400px;
 	height: 200px;
 	border-radius: 10px;

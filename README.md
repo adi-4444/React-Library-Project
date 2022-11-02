@@ -1,10 +1,17 @@
 # Getting Started with React Library Project
 
-This project was created with React, Axios.
+This project was created with React, Axios, React-router-dom.
 
 ## Available Scripts
 
-In the project directory, you can run:
+clone this project by `git clone https://github.com/adi-4444/React-Library-Project.git`
+
+go to the project directory `cd React-Library-Project`
+
+install npm `npm install` to get all the node modules.
+
+check in package.json if these libraries not installed try
+install libraries by `npm i axios react-router-dom`
 
 ### `npm start`
 

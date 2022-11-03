@@ -2,6 +2,9 @@
 
 This project was created with React, Axios, React-router-dom.
 
+webiste is live on `https://rguktong-library.netlify.app/`
+check students data @`/students`path
+
 ## Available Scripts
 
 clone this project by `git clone https://github.com/adi-4444/React-Library-Project.git`

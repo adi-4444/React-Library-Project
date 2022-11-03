@@ -2,8 +2,9 @@
 
 This project was created with React, Axios, React-router-dom.
 
-webiste is live on `https://rguktong-library.netlify.app/`
-check students data @`/students`path
+webiste is live on [https://rguktong-library.netlify.app/]
+
+check students data [https://rguktong-library.netlify.app/students] path
 
 ## Available Scripts
 

@@ -2,6 +2,7 @@ import React from "react";
 import { useState, useEffect } from "react";
 import "./Homepage.css";
 import Modal from "./Modal";
+import logo from "../assets/logo.png";
 
 const Homepage = ({ students, tt }) => {
 	//Disablling right click from page
@@ -190,6 +191,20 @@ const Homepage = ({ students, tt }) => {
 	return (
 		<div>
 			<div className='main-wrapper'>
+				<div className='title-div'>
+					<img className='logo' src={logo} alt='logo' />
+					<div className='title'>
+						<h1>
+							RAJIV GANDHI UNIVERSITY OF KNOWLEDGE
+							TECHNOLOGIES,ONGOLE
+						</h1>
+						<p>
+							Catering to the Educational Needs of Gifted Rural
+							Youth
+						</p>
+					</div>
+				</div>
+				<h2 className='heading'>Library Management</h2>
 				<div className='clock-div'>
 					<div className='date-div'>
 						<span className='day'>{currentDay},</span>

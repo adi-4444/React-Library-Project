@@ -1,3 +1,30 @@
+.title-div {
+	display: flex;
+	position: relative;
+	gap: 25px;
+	top: 25px;
+	left: -300px;
+}
+.logo {
+	height: 50px;
+	width: 45px;
+}
+.title-div h1 {
+	color: #0f3057;
+	font-size: 1.2rem;
+}
+.title-div p {
+	font-size: small;
+}
+.heading {
+	display: block;
+	position: absolute;
+	top: 140px;
+	background: #121fcf;
+	background: linear-gradient(to right, #121fcf 0%, #910f0d 100%);
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
 .clock-div {
 	background-color: #fff;
 	width: 250px;
@@ -78,7 +105,8 @@
 .input-div {
 	background-color: #fff;
 	opacity: 0.99;
-	margin-top: 220px;
+	margin-top: 250px;
+	position: absolute;
 	width: 400px;
 	height: 200px;
 	border-radius: 10px;
